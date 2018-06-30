@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "615256079331",
+    "firebase_url": "https://journalapp-d5a20.firebaseio.com",
+    "project_id": "journalapp-d5a20",
+    "storage_bucket": "journalapp-d5a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615256079331:android:13d0bce706e99e7b",
+        "android_client_info": {
+          "package_name": "com.example.galiwango_john_dev.faithapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615256079331-djt96pt1hndnlq4qvnt84md3qmah55au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.galiwango_john_dev.faithapp",
+            "certificate_hash": "d7504e33095309cb0f1fd037d91e43a29eb42a96"
+          }
+        },
+        {
+          "client_id": "615256079331-a0ptu0qsa8cb34hgogevnhlc4sa2idsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9tR5-DDAmDgFOANW43776riX7K7xzck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615256079331-a0ptu0qsa8cb34hgogevnhlc4sa2idsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615256079331:android:17459d4ea36b7448",
+        "android_client_info": {
+          "package_name": "com.example.galiwango_john_dev.journalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615256079331-a0ptu0qsa8cb34hgogevnhlc4sa2idsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs9tR5-DDAmDgFOANW43776riX7K7xzck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

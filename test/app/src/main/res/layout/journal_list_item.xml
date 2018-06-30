@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:paddingLeft="10dp"
+    android:paddingTop="10dp"
+    android:paddingRight="10dp"
+    android:paddingBottom="0dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp">
+
+    <TextView
+        android:id="@+id/title_text_view"
+        android:textStyle="bold"
+        android:textColor="@color/custom_blue_color"
+        android:ellipsize="marquee"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="@string/title"
+        android:textSize="16sp"
+        android:background="@color/background_material_light"
+
+        />
+    <TextView
+        android:id="@+id/entry_date"
+        android:textColor="@color/custom_gray_color"
+        android:ellipsize="marquee"
+
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="@string/dateEntry"
+        />
+
+    <TextView
+        android:id="@+id/details_text_view"
+        android:textColor="@color/custom_darkgray_color"
+        android:ellipsize="marquee"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingBottom="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLines="15"
+        android:text="@string/details"
+        />
+
+
+</LinearLayout>
